@@ -16,7 +16,18 @@ public class Project2 {
     public static void main(String[] args) {
         System.out.println("\t\t\t----------------------\n");
         System.out.println("\t ***********\t\t\t      xxxxxxxxxxxxxx");
-        System.out.println("\t *\t  *\t\t        X\t              x");
+        System.out.println("       *\t     *\t\t            x\t             x");
+        System.out.println("      *\t    STOP     * \t\t\t   X\t    GO        x");
+        System.out.println("       *\t     *\t\t \t    X\t\t     x");
+        System.out.println("\t ***********\t\t\t      xxxxxxxxxxxxxx");
+        System.out.println("\t     ** \t\t\t\t    xx");
+        System.out.println("\t     **\t\t\t\t\t    xx");
+        System.out.println("\t     **\t\t\t\t\t    xx");
+        System.out.println("\t     **\t\t\t\t\t    xx");
+        System.out.println("\t    ****\t\t\t\t   xxxx");
+        System.out.println("\t************\t\t\t      xxxxxxxxxxxxxx");
+        System.out.println("|------------------------------------------------------------------|\n");
+        System.out.println("|------------------------------------------------------------------|\n");
     }
     
 }
